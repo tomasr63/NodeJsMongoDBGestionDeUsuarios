@@ -19,7 +19,7 @@ Tecnologías a utilizar:
 
 HTML, CSS y JavaScript para la interfaz de usuario.
 Node.js y Express para crear el servidor y gestionar las rutas. ✓
-MongoBD para almacenar la información de los usuarios.
+MongoBD para almacenar la información de los usuarios. ✓
 JSON Web Token para gestionar la autenticación y las sesiones.
 Un motor de plantillas (EJS) para generar las vistas del lado del servidor.
 
@@ -27,10 +27,10 @@ Un motor de plantillas (EJS) para generar las vistas del lado del servidor.
 
 Pasos sugeridos para el desarrollo:
 
-Configurar la estructura del proyecto y las dependencias.
+Configurar la estructura del proyecto y las dependencias. ✓
 Crear las rutas y controladores para el registro, inicio de sesión, gestión de perfil y cierre de sesión.
-Implementar el almacenamiento de usuarios en una base de datos MongoBD.
+Implementar el almacenamiento de usuarios en una base de datos MongoBD. ✓
 Utilizar JSON Web Tokens para gestionar la autenticación y las sesiones.
 Crear las vistas utilizando el motor de plantillas seleccionado.
 Estilizar la aplicación con CSS para mejorar la experiencia del usuario.
-Implementar la funcionalidad de recuperación de contraseña por correo electrónico (puedes utilizar un servicio de correo electrónico transaccional como SendGrid para esto).
+Implementar la funcionalidad de recuperación de contraseña por correo electrónico.
